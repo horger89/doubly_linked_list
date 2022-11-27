@@ -1,0 +1,3 @@
+- Using  Node class to hold the value and links between nodes
+- Implementing a DoublyLinkedList class to handle external operations on the   list, like adding and removing nodes
+- Creating an instance of the list, and using the .stringify_list() method to track the changes we made
